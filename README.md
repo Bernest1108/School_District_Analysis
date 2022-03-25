@@ -42,7 +42,14 @@ An analysis of student and school data focusing on standardized testing results.
 
 
 
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
+*1. Thomas High School overall passing % dropped to 65.07%
+*2. Thomas High School had the lowest passing % amongst all charter schools.
+*3. Thomas High School accomplished this task having the highest per student budget at $638.00 
+*4. Thomas High School also experienced changes in math and reading averages as a whole.
+
+# Brian Ernest
 
 
 
