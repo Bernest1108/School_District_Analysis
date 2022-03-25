@@ -1,8 +1,8 @@
 # School_District_Analysis
 
 
+![image](https://user-images.githubusercontent.com/100445489/160134680-56363bb0-2151-4aa9-a3bd-5ed41ade9ce6.png)
 
-https://github.com/Bernest1108/School_District_Analysis/blob/3d4805c8408fd4f3343f74d1894ebfe9b0fa97c3/PyCity%207.png
 
 
 
