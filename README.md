@@ -49,7 +49,7 @@ An analysis of student and school data focusing on standardized testing results.
 *3. Thomas High School accomplished this task having the highest per student budget at $638.00 
 *4. Thomas High School also experienced changes in math and reading averages as a whole.
 
-# Brian Ernest
+##### Brian Ernest
 
 
 
